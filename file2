@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>                                                                                                                                                                                                               
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,6 +10,7 @@
     <p>This is a simple paragraph of text.</p>
 </body>
 </html>
+<<<<<<< Updated upstream
 
 dev-2 added new code in file2
 <!DOCTYPE html>
@@ -27,3 +28,6 @@ dev-2 added new code in file2
     <p>This is another paragraph.</p>
 </body>
 </html>
+=======
+new code added by dev-2 without pulling 
+
