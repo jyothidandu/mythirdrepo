@@ -10,3 +10,20 @@
     <p>This is a simple paragraph of text.</p>
 </body>
 </html>
+
+dev-2 added new code in file2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Headings and Paragraphs</title>
+</head>
+<body>
+    <h1>Main Heading</h1>
+    <h2>Sub-heading Level 2</h2>
+    <h3>Sub-heading Level 3</h3>
+    <p>This is the first paragraph with some <strong>bold text</strong> and <em>italic text</em>.</p>
+    <p>This is another paragraph.</p>
+</body>
+</html>
